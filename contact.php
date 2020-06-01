@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Contact - Serenity Bootstrap Template</title>
+  <title>Contact - Tecnofumiga</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -43,18 +43,18 @@
     <div class="container d-flex">
 
       <div class="logo mr-auto">
-        <h1 class="text-light"><a href="index.html">Serenity</a></h1>
+        <h1 class="text-light"><a href="index.html">TECNOFUMIGA</a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-          <li><a href="index.html">Home</a></li>
+          <li><a href="index.php">Home</a></li>
 
           <li class="drop-down"><a href="#">About</a>
             <ul>
-              <li><a href="about.html">About Us</a></li>
+              <li><a href="about.html">Acerca de</a></li>
               <li><a href="team.html">Team</a></li>
 
               <li class="drop-down"><a href="#">Drop Down 2</a>
@@ -73,7 +73,7 @@
           <li><a href="services.html">Services</a></li>
           <li><a href="portfolio.html">Portfolio</a></li>
           <li><a href="blog.html">Blog</a></li>
-          <li class="active"><a href="contact.html">Contact</a></li>
+          <li class="active"><a href="contact.php">Contact</a></li>
 
           <li class="get-started"><a href="#get-started">Get Started</a></li>
         </ul>
@@ -107,7 +107,7 @@
       <div class="container">
 
         <div>
-          <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+          <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1863.0538595322707!2d-89.58928353662323!3d20.94818886695912!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7eab3777d73b2bfd!2sTECNOFUMIGA%20CONTROL%20DE%20PLAGAS!5e0!3m2!1ses-419!2smx!4v1591048313353!5m2!1ses-419!2smx" frameborder="0" allowfullscreen></iframe>
         </div>
 
         <div class="row mt-5">
@@ -117,19 +117,19 @@
               <div class="address">
                 <i class="icofont-google-map"></i>
                 <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>Calle 69 entre 12 y 14 diagonal # 201 Col. Miraflores</p>
               </div>
 
               <div class="email">
                 <i class="icofont-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>atencionaclientes@tecnofumigacontroldeplagas.com</p>
               </div>
 
               <div class="phone">
                 <i class="icofont-phone"></i>
                 <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <p>999 166 3044/999 983 0309</p>
               </div>
 
             </div>
@@ -162,7 +162,7 @@
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="text-center"><button type="submit">Enviar Mensaje</button></div>
             </form>
 
           </div>
