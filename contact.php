@@ -50,32 +50,18 @@
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-          <li><a href="index.php">Home</a></li>
+          <li class="active"><a href="index.php">Inicio</a></li>
 
-          <li class="drop-down"><a href="#">About</a>
+          <li class="drop-down"><a href="#">¿Quienes Somos?</a>
             <ul>
-              <li><a href="about.html">Acerca de</a></li>
-              <li><a href="team.html">Team</a></li>
-
-              <li class="drop-down"><a href="#">Drop Down 2</a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
+              <li><a href="about.php">Nosotros</a></li>
+              <li><a href="team.php">Misión</a></li>
+              <li><a href="team.php">Visión</a></li>
+              <li><a href="team.php">Valores</a></li>
             </ul>
           </li>
-
-          <li><a href="pricing.html">Pricing</a></li>
-          <li><a href="services.html">Services</a></li>
-          <li><a href="portfolio.html">Portfolio</a></li>
-          <li><a href="blog.html">Blog</a></li>
-          <li class="active"><a href="contact.php">Contact</a></li>
-
-          <li class="get-started"><a href="#get-started">Get Started</a></li>
+          <li><a href="services.php">Servicios</a></li>
+          <li><a href="contact.php">Contacto</a></li>
         </ul>
       </nav><!-- .nav-menu -->
 
@@ -89,8 +75,8 @@
       <div class="breadcrumb-hero">
         <div class="container">
           <div class="breadcrumb-hero">
-            <h2>Contact</h2>
-            <p>Est dolorum ut non facere possimus quibusdam eligendi voluptatem. Quia id aut similique quia voluptas sit quaerat debitis. Rerum omnis ipsam aperiam consequatur laboriosam nemo harum praesentium. </p>
+            <h2>Contactanos</h2>
+            <p>Tienes dudas de nuestros servicios, precios o requieres información adicional, ¡Contactanos! y con gusto te atenderemos.</p>
           </div>
         </div>
       </div>
@@ -116,8 +102,8 @@
             <div class="info">
               <div class="address">
                 <i class="icofont-google-map"></i>
-                <h4>Location:</h4>
-                <p>Calle 69 entre 12 y 14 diagonal # 201 Col. Miraflores</p>
+                <h4>Ubicación:</h4>
+                <p>Calle 69 entre 12 y 14 diagonal # 201 Col. Miraflores C.P. 97179  Mérida, Yucatán, México.</p>
               </div>
 
               <div class="email">
@@ -128,8 +114,8 @@
 
               <div class="phone">
                 <i class="icofont-phone"></i>
-                <h4>Call:</h4>
-                <p>999 166 3044/999 983 0309</p>
+                <h4>Teléfono (s):</h4>
+                <p>(999) 166 30 44 / (999) 983 03 09</p>
               </div>
 
             </div>
@@ -174,55 +160,49 @@
 
   </main><!-- End #main -->
 
-  <!-- ======= Footer ======= -->
+    <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="footer-top">
       <div class="container">
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-info">
-            <h3>Serenity</h3>
-            <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat mauris nunc congue.</p>
+            <h3>Tecnofumiga</h3>
+            <p>Empresa de fumigación y control de plagas.</p>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Useful Links</h4>
+            <h4>Enlaces utiles</h4>
             <ul>
-              <li><a href="#">Home</a></li>
-              <li><a href="#">About us</a></li>
-              <li><a href="#">Services</a></li>
-              <li><a href="#">Terms of service</a></li>
-              <li><a href="#">Privacy policy</a></li>
+              <li><a href="index.php">Inicio</a></li>
+              <li><a href="#">Acerca de</a></li>
+              <li><a href="#">Servicios</a></li>
+              <li><a href="#">Contacto</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h4>Contact Us</h4>
+            <h4>Contactanos</h4>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              Calle 69 # 201 entre 12  <br>
+              y 14 Diagonal Col. Miraflores,<br>
+              97179 Mérida, Yucatán, México.  <br>
+              <strong>Telefono:</strong> (999)1663044 y 9830309<br>
+              <strong>Email:</strong> <label style="font-size:10px;" > atencionclientes@tecnofumigacontroldeplagas.com </label><br>
             </p>
 
             <div class="social-links">
               <a href="#" class="twitter"><i class="icofont-twitter"></i></a>
-              <a href="#" class="facebook"><i class="icofont-facebook"></i></a>
-              <a href="#" class="instagram"><i class="icofont-instagram"></i></a>
+              <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.tecnofumigacontroldeplagas.com%2F&title=Empresa%20de%20fumigaci%C3%B3n%20y%20control%20de%20plagas%20M%C3%A9rida" class="facebook"><i class="icofont-facebook"></i></a>
+              <!--
+			  <a href="#" class="instagram"><i class="icofont-instagram"></i></a>
               <a href="#" class="google-plus"><i class="icofont-skype"></i></a>
-              <a href="#" class="linkedin"><i class="icofont-linkedin"></i></a>
+              <a href="#" class="linkedin"><i class="icofont-linkedin"></i></a> -->
             </div>
 
           </div>
 
-          <div class="col-lg-3 col-md-6 footer-newsletter">
-            <h4>Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna veniam enim veniam illum dolore legam minim quorum culpa amet magna export quem marada parida nodela caramase seza.</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
-          </div>
+
 
         </div>
       </div>
@@ -230,14 +210,14 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>Serenity</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>Tecnofumiga</span></strong>. Todos los derechos reservados.
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/serenity-bootstrap-corporate-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Diseñado por: <a href="https://bootstrapmade.com/">ISC. Miguel Cox Sansores</a>
       </div>
     </div>
   </footer><!-- End Footer -->
