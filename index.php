@@ -126,8 +126,8 @@
         <div class="row">
 
           <div class="col-lg-6 video-box align-self-baseline">
-            <img src="128.png" class="inmg-fluid img-responsive" alt="" width="100%">
-            <a href="" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
+            <img src="assets/img/nosotros.png" class="inmg-fluid img-responsive" alt="" width="100%">
+           
           </div>
 
           <div class="col-lg-6 pt-3 pt-lg-0 content">
