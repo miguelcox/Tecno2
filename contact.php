@@ -166,12 +166,12 @@
       <div class="container">
         <div class="row">
 
-          <div class="col-lg-3 col-md-6 footer-info">
+          <div class="col-lg-4 col-md-6 footer-info">
             <h3>Tecnofumiga</h3>
             <p>Empresa de fumigación y control de plagas.</p>
           </div>
 
-          <div class="col-lg-3 col-md-6 footer-links">
+          <div class="col-lg-4 col-md-6 footer-links">
             <h4>Enlaces utiles</h4>
             <ul>
               <li><a href="index.php">Inicio</a></li>
@@ -181,7 +181,7 @@
             </ul>
           </div>
 
-          <div class="col-lg-3 col-md-6 footer-contact">
+          <div class="col-lg-4 col-md-6 footer-contact">
             <h4>Contactanos</h4>
             <p>
               Calle 69 # 201 entre 12  <br>
