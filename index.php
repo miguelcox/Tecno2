@@ -38,7 +38,7 @@
 
 <body>
 
-  <!-- ======= Header ======= -->
+    <!-- ======= Header ======= -->
   <header id="header" class="fixed-top">
     <div class="container d-flex">
 
@@ -52,24 +52,15 @@
         <ul>
           <li class="active"><a href="index.php">Inicio</a></li>
 
-          <li class="drop-down"><a href="#">Acerca de</a>
+          <li class="drop-down"><a href="#">¿Quienes Somos?</a>
             <ul>
-              <li><a href="about.php">About Us</a></li>
-              <li><a href="team.php">Team</a></li>
-
-              <li class="drop-down"><a href="#">Drop Down 2</a>
-                <ul>
-                  <li><a href="#">submenu</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
+              <li><a href="about.php">Nosotros</a></li>
+              <li><a href="team.php">Misión</a></li>
+              <li><a href="team.php">Visión</a></li>
+              <li><a href="team.php">Valores</a></li>
             </ul>
           </li>
           <li><a href="services.php">Servicios</a></li>
-          <li><a href="portfolio.php">Portfolio</a></li>
           <li><a href="contact.php">Contacto</a></li>
         </ul>
       </nav><!-- .nav-menu -->
@@ -242,23 +233,22 @@
       <div class="container">
         <div class="row">
 
-          <div class="col-lg-3 col-md-6 footer-info">
+          <div class="col-lg-4 col-md-6 footer-info">
             <h3>Tecnofumiga</h3>
-            <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat mauris nunc congue.</p>
+            <p>Empresa de fumigación y control de plagas.</p>
           </div>
 
-          <div class="col-lg-3 col-md-6 footer-links">
+          <div class="col-lg- col-md-6 footer-links">
             <h4>Enlaces utiles</h4>
             <ul>
-              <li><a href="#">Inicio</a></li>
+              <li><a href="index.php">Inicio</a></li>
               <li><a href="#">Acerca de</a></li>
               <li><a href="#">Servicios</a></li>
-              <li><a href="#">Portafolio</a></li>
               <li><a href="#">Contacto</a></li>
             </ul>
           </div>
 
-          <div class="col-lg-3 col-md-6 footer-contact">
+          <div class="col-lg-4 col-md-6 footer-contact">
             <h4>Contactanos</h4>
             <p>
               Calle 69 # 201 entre 12  <br>
@@ -279,13 +269,7 @@
 
           </div>
 
-          <div class="col-lg-3 col-md-6 footer-newsletter">
-            <h4>Noticias</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna veniam enim veniam illum dolore legam minim quorum culpa amet magna export quem marada parida nodela caramase seza.</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
-          </div>
+
 
         </div>
       </div>
