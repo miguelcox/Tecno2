@@ -238,7 +238,7 @@
             <p>Empresa de fumigación y control de plagas.</p>
           </div>
 
-          <div class="col-lg- col-md-6 footer-links">
+          <div class="col-lg-4 col-md-6 footer-links">
             <h4>Enlaces utiles</h4>
             <ul>
               <li><a href="index.php">Inicio</a></li>
