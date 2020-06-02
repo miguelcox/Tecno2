@@ -43,9 +43,9 @@
     <div class="container d-flex">
 
       <div class="logo mr-auto">
-        <h1 class="text-light"><a href="index.html">TECNOFUMIGA</a></h1>
+        <!--<h1 class="text-light"><a href="index.html">TECNOFUMIGA</a></h1>-->
         <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+        <a href="index.php"><img src="assets/img/logo2.png" alt="" class="img-fluid"></a>
       </div>
 
       <nav class="nav-menu d-none d-lg-block">
@@ -243,14 +243,9 @@
         </div>
 
         <div class="owl-carousel clients-carousel" data-aos="fade-up">
-          <img src="assets/img/clients/client-1.png" alt="">
-          <img src="assets/img/clients/client-2.png" alt="">
-          <img src="assets/img/clients/client-3.png" alt="">
-          <img src="assets/img/clients/client-4.png" alt="">
-          <img src="assets/img/clients/client-5.png" alt="">
-          <img src="assets/img/clients/client-6.png" alt="">
-          <img src="assets/img/clients/client-7.png" alt="">
-          <img src="assets/img/clients/client-8.png" alt="">
+          <img src="assets/img/fumigando-150x150.png" alt="">
+          <img src="assets/img/fumigando2-150x150.png" alt="">
+          <img src="assets/img/plagas-150x150.png" alt="">
         </div>
 
       </div>
