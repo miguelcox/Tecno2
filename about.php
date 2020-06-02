@@ -100,31 +100,31 @@
                 <div class="count-box py-5">
                   <i class="icofont-simple-smile"></i>
                   <span data-toggle="counter-up">65</span>
-                  <p>Happy Clients</p>
+                  <p>Clientes</p>
                 </div>
               </div>
 
               <div class="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch">
                 <div class="count-box py-5">
                   <i class="icofont-document-folder"></i>
-                  <span data-toggle="counter-up">85</span>
-                  <p>Projects</p>
+                  <span data-toggle="counter-up">4000</span>
+                  <p>Servicios realizados</p>
                 </div>
               </div>
 
               <div class="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch">
                 <div class="count-box pb-5 pt-0 pt-lg-5">
                   <i class="icofont-clock-time"></i>
-                  <span data-toggle="counter-up">12</span>
-                  <p>Years of experience</p>
+                  <span data-toggle="counter-up">6</span>
+                  <p>Años de experiencia</p>
                 </div>
               </div>
 
               <div class="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch">
                 <div class="count-box pb-5 pt-0 pt-lg-5">
                   <i class="icofont-award"></i>
-                  <span data-toggle="counter-up">15</span>
-                  <p>Awards</p>
+                  <span data-toggle="counter-up">5</span>
+                  <p>Certificaciones</p>
                 </div>
               </div>
 
@@ -168,8 +168,8 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Work Process</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Visión</h2>
+          <p>Ser la empresa líder en el mercado del control de plagas urbanas y pecuarias, usando todas las técnicas y productos adecuados para lograr un control de la fauna nociva y mantener así la satisfacción plena y total de nuestros clientes, como también un especial cuidado del medio ambiente.</p>
         </div>
 
         <div class="row content">
