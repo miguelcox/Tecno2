@@ -215,15 +215,15 @@
 
         <div class="row content">
           <div class="col-md-5" data-aos="fade-right">
-            <img src="assets/img/work-process-3.png" class="img-fluid" alt="">
+            <img src="assets/img/valores.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-5" data-aos="fade-left">
-            <h3>Sunt consequatur ad ut est nulla consectetur reiciendis animi voluptas</h3>
-            <p>Cupiditate placeat cupiditate placeat est ipsam culpa. Delectus quia minima quod. Sunt saepe odit aut quia voluptatem hic voluptas dolor doloremque.</p>
+            <h3>Nuestros valores</h3>
             <ul>
-              <li><i class="icofont-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="icofont-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="icofont-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
+              <li><i class="icofont-check"></i> Confianza.</li>
+              <li><i class="icofont-check"></i> Integridad.</li>
+              <li><i class="icofont-check"></i> Respeto.</li>
+	      <li><i class="icofont-check"></i> Equidad.</li>
             </ul>
           </div>
         </div>
