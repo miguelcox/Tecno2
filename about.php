@@ -147,16 +147,21 @@
 		Somos una empresa que dirige sus servicios al control de insectos, arácnidos, roedores y aves con desarrollo desmedido y que compiten con el hombre por alimento y hábitat.
 		Somos consientes de nuestro entorno ecológico, por lo que asesoramos y dosificamos en el uso de productos químicos y procuramos que estos sean de calidad, biodegradables y con el mínimo de toxicidad.
             </p>
+	    
+	    <p class="">
+              Nuestros técnicos usan equipos de proteccion adecuados como lo son:
+            </p>
             <ul>
-              <li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bx bx-check-double"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bx bx-check-double"></i> Voluptate repellendus pariatur reprehenderit corporis sint.</li>
-              <li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+              <li><i class="bx bx-check-double"></i> Botaso zapatos cerrados.</li>
+              <li><i class="bx bx-check-double"></i> Guantes de nitrilo, polietileno o carnaza..</li>
+              <li><i class="bx bx-check-double"></i> Mascarilla.</li>
+              <li><i class="bx bx-check-double"></i> Filtros.</li>
+	      <li><i class="bx bx-check-double"></i> Lentes de seguridad (goggles).</li>
             </ul>
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+              Como profesionales en el Control de Plagas, nuestros técnicos están en continua capacitación y 
+              actualización para brindar servicios que garanticen la satisfacción de nuestros clientes, 
+	      utilizando métodos seguros, productos y equipos de buena calidad
             </p>
           </div>
 
