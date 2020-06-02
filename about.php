@@ -61,8 +61,8 @@
           <li><a href="contact.php">Contacto</a></li>
               <li class="drop-down"><a href="#">Login</a>
                 <ul>
-                  <li><a class="get-started" href="#">Administrativos</a></li>
-                  <li><a class="get-started" href="#">Clientes</a></li>
+                  <li><a class="get-started" href="http://www.expertosenplagas.com/accounts/login/?next=/">Administrativos</a></li>
+                  <li><a class="get-started" href="http://www.expertosenplagas.com/accounts/login/?next=/">Clientes</a></li>
                 </ul>
               </li>
         </ul>
@@ -176,7 +176,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Visión</h2>
-          <p>Ser la empresa líder en el mercado del control de plagas urbanas y pecuarias, usando todas las técnicas y productos adecuados para lograr un control de la fauna nociva y mantener así la satisfacción plena y total de nuestros clientes, como también un especial cuidado del medio ambiente.</p>
+          
         </div>
 
         <div class="row content">
@@ -184,7 +184,13 @@
             <img src="assets/img/fumigaciones.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-4" data-aos="fade-left">
-            <h3>Nuestro servicio se dirige a:</h3>
+            <h3>Visión</h3>
+	    <p class="font-italic">
+	       Ser la empresa líder en el mercado del control de plagas urbanas y pecuarias, 
+	       usando todas las técnicas y productos adecuados para lograr un control de la fauna nociva y
+	       mantener así la satisfacción plena y total de nuestros clientes, 
+	       como también un especial cuidado del medio ambiente.
+	    </p>
             <ul>
               <li><i class="icofont-check"></i> Residencias</li>
               <li><i class="icofont-check"></i> Zonas industriales.</li>
@@ -203,10 +209,6 @@
           <div class="col-md-7 pt-5 order-2 order-md-1" data-aos="fade-right">
             <h3>Nuestra Misión</h3>
             <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <p>
               Lograr la fidelidad y satisfacción total de nuestros clientes, 
 	      a través de técnicas innovadoras de altísima calidad, tecnología y costos competitivos, 
 	      brindando apoyo y asesoría en todo momento, generando confianza y seguridad, ofreciendo
