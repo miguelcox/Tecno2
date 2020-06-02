@@ -140,7 +140,8 @@
           </div>
 
           <div class="col-lg-6 pt-3 pt-lg-0 content">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+            <h3>Somos una empresa que dirige sus servicios al control de insectos, arácnidos, roedores y aves con desarrollo desmedido y que compiten con el hombre por alimento y hábitat.
+		Somos consientes de nuestro entorno ecológico, por lo que asesoramos y dosificamos en el uso de productos químicos y procuramos que estos sean de calidad, biodegradables y con el mínimo de toxicidad.</h3>
             <p class="font-italic">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
               magna aliqua.
