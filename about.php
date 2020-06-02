@@ -55,9 +55,6 @@
           <li class="drop-down"><a href="#">¿Quienes Somos?</a>
             <ul>
               <li><a href="about.php">Nosotros</a></li>
-              <li><a href="team.php">Misión</a></li>
-              <li><a href="team.php">Visión</a></li>
-              <li><a href="team.php">Valores</a></li>
             </ul>
           </li>
           <li><a href="services.php">Servicios</a></li>
@@ -135,8 +132,7 @@
         <div class="row">
 
           <div class="col-lg-6 video-box align-self-baseline">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
-            <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
+            <img src="assets/img/nosotros.png" class="img-fluid" alt="">
           </div>
 
           <div class="col-lg-6 pt-3 pt-lg-0 content">
