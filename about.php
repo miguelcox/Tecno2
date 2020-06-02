@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>About - Serenity Bootstrap Template</title>
+  <title>Acerca de - Tecnofumiga</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -75,8 +75,8 @@
       <div class="breadcrumb-hero">
         <div class="container">
           <div class="breadcrumb-hero">
-            <h2>About</h2>
-            <p>Est dolorum ut non facere possimus quibusdam eligendi voluptatem. Quia id aut similique quia voluptas sit quaerat debitis. Rerum omnis ipsam aperiam consequatur laboriosam nemo harum praesentium. </p>
+            <h2>Acerca de..Tecnofumiga</h2>
+            <p>Empresa de fumigación y control de plagas</p>
           </div>
         </div>
       </div>
@@ -140,11 +140,10 @@
           </div>
 
           <div class="col-lg-6 pt-3 pt-lg-0 content">
-            <h3>Somos una empresa que dirige sus servicios al control de insectos, arácnidos, roedores y aves con desarrollo desmedido y que compiten con el hombre por alimento y hábitat.
-		Somos consientes de nuestro entorno ecológico, por lo que asesoramos y dosificamos en el uso de productos químicos y procuramos que estos sean de calidad, biodegradables y con el mínimo de toxicidad.</h3>
+            <h3>NOSOTROS</h3>
             <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+		Somos una empresa que dirige sus servicios al control de insectos, arácnidos, roedores y aves con desarrollo desmedido y que compiten con el hombre por alimento y hábitat.
+		Somos consientes de nuestro entorno ecológico, por lo que asesoramos y dosificamos en el uso de productos químicos y procuramos que estos sean de calidad, biodegradables y con el mínimo de toxicidad.
             </p>
             <ul>
               <li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
@@ -342,7 +341,7 @@
             <p>Empresa de fumigación y control de plagas.</p>
           </div>
 
-          <div class="col-lg- col-md-6 footer-links">
+          <div class="col-lg-4 col-md-6 footer-links">
             <h4>Enlaces utiles</h4>
             <ul>
               <li><a href="index.php">Inicio</a></li>
