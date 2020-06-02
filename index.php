@@ -42,9 +42,9 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex">
       <div class="logo mr-auto">
-        <h1 class="text-light"><a href="index.html">TECNOFUMIGA</a></h1>
+        <!--<h1 class="text-light"><a href="index.html">TECNOFUMIGA</a></h1>-->
         <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+        <a href="index.php"><img src="assets/img/logo2.png" alt="" class="img-fluid"></a>
       </div>
       <nav class="nav-menu d-none d-lg-block">
         <ul>
@@ -54,12 +54,12 @@
               <li><a href="about.php">Nosotros</a></li>
             </ul>
           </li>
-          <li><a href="services.php">Servicios</a></li>
+          <li><a href="#">Servicios</a></li>
           <li><a href="contact.php">Contacto</a></li>
               <li class="drop-down"><a href="#">Login</a>
                 <ul>
-                  <li><a class="get-started" href="#">Administrativos</a></li>
-                  <li><a class="get-started" href="#">Clientes</a></li>
+                  <li><a class="get-started" href="http://www.expertosenplagas.com/accounts/login/?next=/">Administrativos</a></li>
+                  <li><a class="get-started" href="http://www.expertosenplagas.com/accounts/login/?next=/">Clientes</a></li>
                 </ul>
               </li>
         </ul>
