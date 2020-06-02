@@ -143,9 +143,9 @@
 	      <li><i class="bx bx-check-double"></i> Lentes de seguridad (goggles).</li>
             </ul>
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum
+              Como profesionales en el Control de Plagas, nuestros técnicos están en continua capacitación y 
+	      actualización para brindar servicios que garanticen la satisfacción de nuestros clientes, 
+	      utilizando métodos seguros, productos y equipos de buena calidad
             </p>
           </div>
 
