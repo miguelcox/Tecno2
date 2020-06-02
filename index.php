@@ -133,14 +133,14 @@
           <div class="col-lg-6 pt-3 pt-lg-0 content">
             <h3>Todos nuestros servicios y métodos de control son de alta seguridad, efectivos, preventivos y correctivos, diseñados para satisfacer sus requerimientos</h3>
             <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              Nuestros técnicos usan equipos de proteccion adecuados como lo son:
             </p>
             <ul>
-              <li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bx bx-check-double"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bx bx-check-double"></i> Voluptate repellendus pariatur reprehenderit corporis sint.</li>
-              <li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+              <li><i class="bx bx-check-double"></i> Botas o zapatos cerrados.</li>
+              <li><i class="bx bx-check-double"></i> Guantes de nitrilo, polietileno o carnaza.</li>
+              <li><i class="bx bx-check-double"></i> Mascarilla.</li>
+              <li><i class="bx bx-check-double"></i> Filtros.</li>
+	      <li><i class="bx bx-check-double"></i> Lentes de seguridad (goggles).</li>
             </ul>
             <p>
               Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
