@@ -179,14 +179,14 @@
             <img src="assets/img/work-process-1.png" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-4" data-aos="fade-left">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-            <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
+            <h3>Nuestro servicio se dirige a:</h3>
             <ul>
-              <li><i class="icofont-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="icofont-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
+              <li><i class="icofont-check"></i> Residencias</li>
+              <li><i class="icofont-check"></i> Zonas industriales.</li>
+	      <li><i class="icofont-check"></i> Transporte de pasajeros.</li>
+	      <li><i class="icofont-check"></i> Establecimientos comerciales.</li>
+              <li><i class="icofont-check"></i> Restaurantes.</li>
+	      <li><i class="icofont-check"></i> Supermercados.</li>
             </ul>
           </div>
         </div>
