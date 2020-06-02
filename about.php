@@ -181,7 +181,7 @@
 
         <div class="row content">
           <div class="col-md-5" data-aos="fade-right">
-            <img src="assets/img/fumigaciones-1024x563.jpg" class="img-fluid" alt="">
+            <img src="assets/img/fumigaciones.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-4" data-aos="fade-left">
             <h3>Nuestro servicio se dirige a:</h3>
