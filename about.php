@@ -174,11 +174,6 @@
     <section id="work-process" class="work-process">
       <div class="container">
 
-        <div class="section-title" data-aos="fade-up">
-          <h2>Visión</h2>
-          
-        </div>
-
         <div class="row content">
           <div class="col-md-5" data-aos="fade-right">
             <img src="assets/img/fumigaciones.jpg" class="img-fluid" alt="">
