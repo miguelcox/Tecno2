@@ -181,7 +181,7 @@
 
         <div class="row content">
           <div class="col-md-5" data-aos="fade-right">
-            <img src="assets/img/work-process-1.png" class="img-fluid" alt="">
+            <img src="assets/img/fumigaciones-1024x563" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-4" data-aos="fade-left">
             <h3>Nuestro servicio se dirige a:</h3>
@@ -198,7 +198,7 @@
 
         <div class="row content">
           <div class="col-md-5 order-1 order-md-2" data-aos="fade-left">
-            <img src="assets/img/work-process-2.png" class="img-fluid" alt="">
+            <img src="assets/img/planta.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-md-7 pt-5 order-2 order-md-1" data-aos="fade-right">
             <h3>Nuestra Misión</h3>
