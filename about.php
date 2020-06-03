@@ -41,23 +41,20 @@
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top">
     <div class="container d-flex">
-
       <div class="logo mr-auto">
         <!--<h1 class="text-light"><a href="index.html">TECNOFUMIGA</a></h1>-->
         <!-- Uncomment below if you prefer to use an image logo -->
         <a href="index.php"><img src="assets/img/logo2.png" alt="" class="img-fluid"></a>
       </div>
-
       <nav class="nav-menu d-none d-lg-block">
         <ul>
           <li class="active"><a href="index.php">Inicio</a></li>
-
           <li class="drop-down"><a href="#">¿Quienes Somos?</a>
             <ul>
               <li><a href="about.php">Nosotros</a></li>
             </ul>
           </li>
-          <li><a href="services.php">Servicios</a></li>
+          <li><a href="#">Servicios</a></li>
           <li><a href="contact.php">Contacto</a></li>
               <li class="drop-down"><a href="#">Login</a>
                 <ul>
@@ -67,7 +64,6 @@
               </li>
         </ul>
       </nav><!-- .nav-menu -->
-
     </div>
   </header><!-- End Header -->
 
