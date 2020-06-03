@@ -174,7 +174,7 @@
 
         <div class="row">
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
-            <div class="card" style="background-image: url(assets/img/fumiga.png);">
+            <div class="card" style="background-image: url(assets/img/fumiga.jpg);">
               <div class="card-body">
                 <h5 class="card-title"><a href="">Fumigación</a></h5>
                 <p class="card-text">Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua.</p>
@@ -193,7 +193,7 @@
 
           </div>
           <div class="col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up" data-aos-delay="100">
-            <div class="card" style="background-image: url(assets/img/plagas.jpg);">
+            <div class="card" style="background-image: url(assets/img/plagas2.jpg);">
               <div class="card-body">
                 <h5 class="card-title"><a href="">Control de plagas</a></h5>
                 <p class="card-text">Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores.</p>
